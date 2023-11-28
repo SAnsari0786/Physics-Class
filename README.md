@@ -1,5 +1,5 @@
 # Physics-Class
-Python 3 project showing mastery skill set of functions.
+Python 3 project showing skill set of functions.
 
 You are a physics teacher preparing for the upcoming semester. You want to provide your students with some functions that will help them calculate some fundamental physical properties.
 
